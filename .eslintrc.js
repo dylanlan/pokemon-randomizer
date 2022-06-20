@@ -9,6 +9,8 @@ module.exports = {
         'chai-friendly',
         'promise',
         'mocha',
+        "import",
+        "react"
     ],
     parserOptions: {
         project: './tsconfig.json',
