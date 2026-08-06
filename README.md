@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED
+
+This package is no longer being maintained. Recommend using this instead: https://github.com/erezushi/pokemon-randomizer
+
 Pokemon Randomizer
 ==================
 
